@@ -1,0 +1,16 @@
+.responsive-design {
+  color: black;
+}
+@media screen and(max-width:768px) {
+  .responsive-design {
+    color: blue;
+  }
+}
+@media screen and(max-width:480px){
+  .responsive-design {
+    color: red;
+
+
+    
+  }
+}
